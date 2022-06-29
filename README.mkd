@@ -1,11 +1,2 @@
-
-# DESKTOP VIEW
-
-image.png
-
-# ACTIVE STATE
-
-image.png
-
-# MOBILE VIEW
-image.png
+# Github pages link
+https://anganda.github.io/Product-preview-card-component/
